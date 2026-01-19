@@ -1,1 +1,2 @@
-Тимонин,Козырев ИСП-233(19.01.2026)
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
